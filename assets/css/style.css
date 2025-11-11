@@ -1,0 +1,32 @@
+.emp_section .card_info .card_img {
+    overflow: hidden;
+}
+
+.emp_section .card_info .card_img img {
+    translate: 0.4s;
+}
+
+.emp_section .card_info .card_img img:hover {
+    transform: scale(1.1);
+}
+
+
+/* Contact us */
+.contact_section .form-control:focus {
+    border-color: #353e4c !important;
+    box-shadow: none !important;
+}
+
+
+
+
+
+
+
+
+.banner_section {
+    background-image: url("assets/images/banner1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
